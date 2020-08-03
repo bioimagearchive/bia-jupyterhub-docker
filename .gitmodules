@@ -13,3 +13,6 @@
 [submodule "scikit-image/skimage-tutorials"]
 	path = example_notebooks/scikit-image/skimage-tutorials
 	url = https://github.com/scikit-image/skimage-tutorials
+[submodule "EBIBioStudies/biostudies-notebooks"]
+	path = EBIBioStudies/biostudies-notebooks
+	url = https://github.com/EBIBioStudies/biostudies-notebooks

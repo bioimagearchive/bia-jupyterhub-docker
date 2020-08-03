@@ -10,8 +10,8 @@ RUN apt-get update \
     neofetch
 
 RUN curl https://rclone.org/install.sh | sudo bash
-# USER jovyan
 RUN jupyter labextension install @jupyterlab/google-drive
 RUN jupyter labextension install DavidZhang73/jupyterlab-atom-one-dark-theme
+USER jovyan
 RUN echo 'neofetch' >> ~/.bashrc
 ADD . . 
