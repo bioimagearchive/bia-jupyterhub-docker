@@ -1,15 +1,15 @@
 [submodule "ome/training-notebooks"]
-	path = ome/training-notebooks
+	path = example_notebooks/ome/training-notebooks
 	url = https://github.com/ome/training-notebooks
 [submodule "HenriquesLab/ZeroCostDL4Mic"]
-	path = HenriquesLab/ZeroCostDL4Mic
+	path = example_notebooks/HenriquesLab/ZeroCostDL4Mic
 	url = https://github.com/HenriquesLab/ZeroCostDL4Mic
 [submodule "IAFIG-RMS/Python-for-Bioimage-Analysis"]
-	path = IAFIG-RMS/Python-for-Bioimage-Analysis
+	path = example_notebooks/IAFIG-RMS/Python-for-Bioimage-Analysis
 	url = https://github.com/IAFIG-RMS/Python-for-Bioimage-Analysis
 [submodule "imagej/tutorials"]
-	path = imagej/tutorials
+	path = example_notebooks/imagej/tutorials
 	url = https://github.com/imagej/tutorials
 [submodule "scikit-image/skimage-tutorials"]
-	path = scikit-image/skimage-tutorials
+	path = example_notebooks/scikit-image/skimage-tutorials
 	url = https://github.com/scikit-image/skimage-tutorials
