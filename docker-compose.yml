@@ -1,0 +1,6 @@
+version: "3"
+services:
+  bioimagearchive-jupyter-hub-docker:
+    build:
+      context: .
+    image: bioimagearchive/jupyter-hub-docker:20210202
